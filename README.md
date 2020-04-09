@@ -1,0 +1,2 @@
+# mineserver
+myfirst_mine_server_bukkit
